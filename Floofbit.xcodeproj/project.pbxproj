@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		01388C9A2F894DDE00B7C967 /* PLAN.md in Resources */ = {isa = PBXBuildFile; fileRef = 01388C992F894DDE00B7C967 /* PLAN.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		01388C7D2F894C6B00B7C967 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		01388C6F2F894C6900B7C967 /* Floofbit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Floofbit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01388C7C2F894C6B00B7C967 /* FloofbitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FloofbitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01388C862F894C6B00B7C967 /* FloofbitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FloofbitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		01388C992F894DDE00B7C967 /* PLAN.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = PLAN.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				01388C7F2F894C6B00B7C967 /* FloofbitTests */,
 				01388C892F894C6B00B7C967 /* FloofbitUITests */,
 				01388C702F894C6900B7C967 /* Products */,
+				01388C992F894DDE00B7C967 /* PLAN.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01388C9A2F894DDE00B7C967 /* PLAN.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
